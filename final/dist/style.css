@@ -15,7 +15,7 @@ body, html {
           justify-content: center;
   -webkit-box-align: center;
           align-items: center;
-  background-color: #c42727;
+  background-color: #C53211;
   overflow: hidden;
 }
 body .panels, html .panels {
@@ -93,7 +93,7 @@ body .panels .panel.whitePanel .buttons button, html .panels .panel.whitePanel .
   border-radius: 10px;
   height: 35px;
   border: none;
-  background-color: #132260;
+  background-color: #4368B6;
   letter-spacing: 1.5px;
   margin-top: 0px;
   color: white;
@@ -105,16 +105,16 @@ body .panels .panel.whitePanel .buttons button:active, html .panels .panel.white
           filter: brightness(0.8);
 }
 body .panels .panel.whitePanel .buttons .buttonTwo, html .panels .panel.whitePanel .buttons .buttonTwo {
-  background-color: #c42727;
+  background-color: #C53211;
 }
 body .panels .panel.whitePanel .buttons .buttonThree, html .panels .panel.whitePanel .buttons .buttonThree {
-  background-color: #c42727;
+  background-color: #C53211;
 }
 body .panels .panel.whitePanel .buttons .buttonFour, html .panels .panel.whitePanel .buttons .buttonFour {
-  background-color: #132260;
+  background-color: #4368B6;
 }
 body .panels .panel.rightPanel, html .panels .panel.rightPanel {
-  background-color: #132260;
+  background-color: #4368B6;
 }
 body .panels .panel.rightPanel .list, html .panels .panel.rightPanel .list {
   color: white;
@@ -128,7 +128,7 @@ body .panels .panel.rightPanel textarea, html .panels .panel.rightPanel textarea
   border-radius: 10px;
   width: 100%;
   height: 230px;
-  background-color: #1e3597;
+  background-color: #658cd6;
   border: none;
   outline: none;
   display: -webkit-box;
@@ -152,7 +152,7 @@ body .panels .panel.rightPanel .buttons button, html .panels .panel.rightPanel .
   border-radius: 10px;
   height: 25px;
   border: none;
-  background-color: #132260;
+  background-color: #E4930A;
   letter-spacing: 1.5px;
   color: #132260;
   outline: none;
@@ -163,7 +163,7 @@ body .panels .panel.rightPanel .buttons button:active, html .panels .panel.right
           filter: brightness(0.8);
 }
 body .panels .panel.rightPanel .buttons .buttonTwo, html .panels .panel.rightPanel .buttons .buttonTwo {
-  background-color: #e2b83b;
+  background-color: #F9D401;
 }
 
 .circleGreen1, .circleGreen2, .circleYellow1, .circleYellow2 {
@@ -174,28 +174,30 @@ body .panels .panel.rightPanel .buttons .buttonTwo, html .panels .panel.rightPan
 .circleGreen1.circleGreen1, .circleGreen2.circleGreen1, .circleYellow1.circleGreen1, .circleYellow2.circleGreen1 {
   width: 250px;
   height: 250px;
-  background-color: #005b29;
+  background-color: #DEC23B;
   left: 100px;
   top: 500px;
 }
 .circleGreen1.circleGreen2, .circleGreen2.circleGreen2, .circleYellow1.circleGreen2, .circleYellow2.circleGreen2 {
   width: 150px;
   height: 150px;
-  background-color: #005b29;
+  background-color: #DEC23B;
   left: 500px;
   top: 40px;
 }
 .circleGreen1.circleYellow1, .circleGreen2.circleYellow1, .circleYellow1.circleYellow1, .circleYellow2.circleYellow1 {
   width: 200px;
   height: 200px;
-  background-color: #e2b83b;
+  background-color: #78A153;
   left: -50px;
   top: 140px;
 }
 .circleGreen1.circleYellow2, .circleGreen2.circleYellow2, .circleYellow1.circleYellow2, .circleYellow2.circleYellow2 {
   width: 150px;
   height: 150px;
-  background-color: #e2b83b;
+  background-color: #C65840;
   left: 600px;
   top: 370px;
 }
+
+

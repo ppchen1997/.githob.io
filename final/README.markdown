@@ -1,5 +1,5 @@
 # 前端期末報告
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/jxtsyjxz/pen/MWKEgxq](https://codepen.io/jxtsyjxz/pen/MWKEgxq).
+這是一款服務學習心得文產生器，輸入「服務地點」、「服務對象」之後，能夠產出不同類型的心得文。
 
 
